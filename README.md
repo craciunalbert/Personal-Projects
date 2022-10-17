@@ -15,14 +15,12 @@
 
 My name is Albert Craciun. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications.
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1EyR4KOwXkHiefTrASwgKGN1CLl7eenha/view?usp=sharing).
 
 ## Skills
 
