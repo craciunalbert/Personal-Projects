@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+My name is Albert Craciun. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products.
 
 I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
 
