@@ -57,7 +57,7 @@ __Jira__
   * able to create projects and track their progress
 
 __Postman__
-
+  * know how to use all CRUD operations
 __Browser developer tools__
 
 
