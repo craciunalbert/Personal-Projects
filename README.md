@@ -35,11 +35,7 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * gained experience through manual testing of APIs with Postman
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
@@ -47,37 +43,23 @@ __Test documentation__
 
 __SQL databases__
   * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
+__JavaScript fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
+__Postman__
 
 __Browser developer tools__
 
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
 ## Courses
 
