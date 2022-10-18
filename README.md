@@ -64,21 +64,22 @@ __Browser developer tools__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__Manual and Automation Testing__  
+*online courses by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
+A complex and punctual course in quality assurance, covering skills in manual and automation testing.  
+[Link to the certificate]()  
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Introduction to databases (MySQL)__  
+*online course by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
+A course where I built my knowledge about database design, the use of CRUD operations, the basics of the SQL language.   
+[Link to the certificate]()
+
+
+__IC3 Digital Literacy Certification__  
+*online course by Certiport, Bucharest, Romania*  
+The IC3 Digital Literacy GS5 Certification provides the global standard for validating online knowledge, computing fundamentals, and application proficiency through true performance-based testing.   
+[Link to the certificate](https://www.credly.com/earner/earned/badge/31b7ba02-30c7-407c-ac5a-7225a688fae0/)
 
 
 ## Examples of my work
