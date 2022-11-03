@@ -67,7 +67,7 @@ __Browser developer tools__
 __Manual and Automation Testing__  
 *online courses by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
 A complex and punctual course in quality assurance, covering skills in manual and automation testing.  
-[Link to the certificate]()  
+[Link to the certificate](https://www.udemy.com/certificate/UC-45dc4af5-279f-4f1a-8988-fd81a2578ab5/)  
 
 
 __Introduction to databases (MySQL)__  
