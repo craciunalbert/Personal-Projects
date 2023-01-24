@@ -79,7 +79,7 @@ A course where I built my knowledge about database design, the use of CRUD opera
 __IC3 Digital Literacy Certification__  
 *online course by Certiport, Bucharest, Romania*  
 The IC3 Digital Literacy GS5 Certification provides the global standard for validating online knowledge, computing fundamentals, and application proficiency through true performance-based testing.   
-[Link to the certificate](https://www.credly.com/earner/earned/badge/31b7ba02-30c7-407c-ac5a-7225a688fae0/)
+[Link to the certificate](https://www.credly.com/badges/31b7ba02-30c7-407c-ac5a-7225a688fae0/public_url)
 
 
 ## Examples of my work
