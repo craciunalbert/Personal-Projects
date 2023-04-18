@@ -4,22 +4,15 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 
 ## About me
 
-My name is Albert Craciun. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I believe that high quality is the bestselling point of services and products.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+My name is Albert Craciun. As a results-oriented and collaborative team player, I am currently in the process of transitioning my career to apply my skills towards ensuring software functionality and usability as a Software Quality Assurance professional. With a successful 5-year career as a Sales Consultant in Bucharest, I have developed a keen understanding of customer needs and the importance of delivering high-quality solutions.
+To further my knowledge in software testing, I have taken courses on ISTQB, Agile methodology, SQL, Python, and attended training on manual and automated testing. These courses have equipped me with a solid understanding of the key attributes of a QA Engineer, as well as proficiency in Jira management, test case creation and configuration, bug reporting, API testing with Postman, and GitHub repository management with Sourcetree.
+As I seek to expand my knowledge and skills in a dynamic technology company, I am excited about the opportunity to contribute to the success of your organization as a QA Engineer. I am available for further discussion or to provide any additional information. Thank you for considering my candidacy for the open position.
 
 ## CV
-You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1EyR4KOwXkHiefTrASwgKGN1CLl7eenha/view?usp=sharing).
+You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1CcXhZCxEu4MEjVrampwVBEapOCgRcWgM/view?usp=share_link).
 
 ## Skills
 
@@ -40,6 +33,9 @@ __API testing__
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
+  
+  __Python__
+  * can write simple functions and algorithms
 
 __SQL databases__
   * can write complex requests using subqueries
@@ -70,10 +66,19 @@ A complex and punctual course in quality assurance, covering skills in manual an
 [Link to the certificate](https://www.udemy.com/certificate/UC-45dc4af5-279f-4f1a-8988-fd81a2578ab5/)  
 
 
-__Introduction to databases (MySQL)__  
-*online course by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
-A course where I built my knowledge about database design, the use of CRUD operations, the basics of the SQL language.   
-[Link to the certificate](https://www.udemy.com/certificate/UC-45dc4af5-279f-4f1a-8988-fd81a2578ab5/)
+__ISTQB Certified Tester Foundation Level__  
+*online course by [Wouter Vrijen](https://www.udemy.com/user/wouter-vrijen/), Udemy*  
+Comprehensive training program covering software testing principles and practices based on ISTQB syllabus. Topics include testing techniques, test management, test automation, Agile/DevOps methodologies. Accredited by ISTQB. 
+
+
+__Python Bootcamp__  
+*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy*  
+Python training program covering Python basics, data structures, object-oriented programming, web scraping, data visualization, and more. Hands-on learning with practical examples and projects. 
+
+
+__SQL Bootcamp__  
+*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy*  
+A course where I built my knowledge about database design, the use of CRUD operations, the basics of the SQL language. 
 
 
 __IC3 Digital Literacy Certification__  
@@ -82,5 +87,5 @@ The IC3 Digital Literacy GS5 Certification provides the global standard for vali
 [Link to the certificate](https://www.credly.com/badges/31b7ba02-30c7-407c-ac5a-7225a688fae0/public_url)
 
 
-## Examples of my work
+
 
