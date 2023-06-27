@@ -12,7 +12,7 @@ To further my knowledge in software testing, I have taken courses on ISTQB, Agil
 As I seek to expand my knowledge and skills in a dynamic technology company, I am excited about the opportunity to contribute to the success of your organization as a QA Engineer. I am available for further discussion or to provide any additional information. Thank you for considering my candidacy for the open position.
 
 ## CV
-You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1CcXhZCxEu4MEjVrampwVBEapOCgRcWgM/view?usp=share_link).
+You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/1HYPr8bBz3ROdHeploHejJyLatVhwEbnu/view?usp=sharing).
 
 ## Skills
 
@@ -60,32 +60,34 @@ __Browser developer tools__
 
 ## Courses
 
-__Manual and Automation Testing__  
-*online course by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy*  
-A complex and punctual course in quality assurance, covering skills in manual and automation testing.  
-[Link to the certificate](https://www.udemy.com/certificate/UC-45dc4af5-279f-4f1a-8988-fd81a2578ab5/)  
-
 
 __ISTQB Certified Tester Foundation Level__  
-*online course by [Wouter Vrijen](https://www.udemy.com/user/wouter-vrijen/), Udemy*  
-Comprehensive training program covering software testing principles and practices based on ISTQB syllabus. Topics include testing techniques, test management, test automation, Agile/DevOps methodologies. Accredited by ISTQB. 
-
-
-__Python Bootcamp__  
-*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy*  
-Python training program covering Python basics, data structures, object-oriented programming, web scraping, data visualization, and more. Hands-on learning with practical examples and projects. 
+*online course by [Wouter Vrijen](https://www.udemy.com/user/wouter-vrijen/), Udemy - 12h*  
+Comprehensive training program covering software testing principles and practices based on ISTQB syllabus. Topics include testing techniques, test management, test automation, Agile/DevOps methodologies. Accredited by ISTQB.  
+[Link to the certificate](https://www.udemy.com/certificate/UC-7f7f4a4c-891e-4af5-b436-b54f1bf2d66b/)
 
 
 __SQL Bootcamp__  
-*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy*  
-A course where I built my knowledge about database design, the use of CRUD operations, the basics of the SQL language. 
+*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy - 9h*  
+A course where I built my knowledge about database design, the use of CRUD operations, the basics of the SQL language.  
+[Link to the certificate](https://www.udemy.com/certificate/UC-37b45b3a-26b7-4c56-909e-4a98ef388da5/)  
+
+
+__Python Bootcamp__  
+*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Udemy - in progress - 22h*  
+Python training program covering Python basics, data structures, object-oriented programming, web scraping, data visualization, and more. Hands-on learning with practical examples and projects.  
+
+
+__Manual and Automation Testing__  
+*online course by [Radu Popescu](https://www.udemy.com/user/0aa1a3f1-6c16-4e45-a919-199288033d09/), Udemy - 9h*  
+A complex and punctual course in quality assurance, covering skills in manual and automation testing.  
+[Link to the certificate](https://www.udemy.com/certificate/UC-45dc4af5-279f-4f1a-8988-fd81a2578ab5/)  
 
 
 __IC3 Digital Literacy Certification__  
 *online course by Certiport, Bucharest, Romania*  
 The IC3 Digital Literacy GS5 Certification provides the global standard for validating online knowledge, computing fundamentals, and application proficiency through true performance-based testing.   
 [Link to the certificate](https://www.credly.com/badges/31b7ba02-30c7-407c-ac5a-7225a688fae0/public_url)
-
 
 
 
